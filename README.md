@@ -31,3 +31,10 @@ The app helps users test their knowledge of everyday life hacks by separating re
 
 ## Conclusion
 The app balances simplicity and engagement. By combining quick questions, supportive feedback, and a review system, it creates a lightweight but effective tool that makes knowledge checks enjoyable and motivating.
+
+
+## References
+- YouTube, 2021. *Android Studio Quiz App Tutorial*. Available at: <https://www.youtube.com/watch?v=pXZR0QiwvrU> [Accessed 4 May 2026].  
+- YouTube, 2020. *Android Studio Quiz App (Java to Kotlin)*. Available at: <https://www.youtube.com/watch?v=pKMqJAc6wYw&t=391s> [Accessed 4 May 2026].  
+- CodeConvert, 2026. *Java to Kotlin Code Converter*. Available at: <https://app.codeconvert.ai/code-converter?inputLang=Java&outputLang=Kotlin> [Accessed 4 May 2026].  
+- Microsoft, 2026. *Copilot (AI assistant)*. Microsoft Corporation.
