@@ -15,5 +15,19 @@ The app helps users test their knowledge of everyday life hacks by separating re
 
 ---
 
+## Utilization of GitHub
+- **Commit History**: Each change is documented through commits, ensuring transparency and traceability.  
+- **Source Management**: GitHub manages the project’s source code, enabling tracking of changes and collaboration.  
+- **Android Studio Integration**: Built‑in Git support helps with commits and pushes directly from the IDE.  
+
+
+
+### GitHub Actions
+- **Automation**: Actions can be configured to build the app, run tests, and deploy artifacts.  
+- **Custom Workflows**: Tailored tasks such as lint checks, unit tests, or generating APKs can be added.  
+- **CI/CD Practices**: Automation ensures consistency and reliability by integrating Continuous Integration (CI) and Continuous Deployment (CD).
+
+
+
 ## Conclusion
 The app balances simplicity and engagement. By combining quick questions, supportive feedback, and a review system, it creates a lightweight but effective tool that makes knowledge checks enjoyable and motivating.
